@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "playwright": "^1.62.1",
     "vite": "^7.1.1"
   }
 }
